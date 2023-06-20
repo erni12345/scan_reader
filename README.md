@@ -1,2 +1,2 @@
-# scar_reader
+# scan_reader
 A manga reading web-app.
